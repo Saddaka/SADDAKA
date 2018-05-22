@@ -1,6 +1,6 @@
 <h2>Goals for this Fundraiser:</h2>
 <b>Bitcoin Cash Tool Development:</b><br>
-1. Officially launching AKARI-PAGES (This tool!) for everyone.<br>
+<del>1. Officially launching AKARI-PAGES (This tool!) for everyone.<br></del> DONE!
 2. Prepare Bitfund.Cash "bitfund dot cash", a listing of BCH-powered micro-fundraising campaigns that take advantage of FOSS AKARI-PAGES.<br>
 <br><br>
 <b>Bitcoin Cash Guide Development:</b><br>

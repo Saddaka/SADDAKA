@@ -1,0 +1,45 @@
+<h2>Goals for this Fundraiser:</h2>
+<b>Bitcoin Cash Tool Development:</b><br>
+1. Officially launching AKARI-PAGES (This tool!) for everyone.<br>
+2. Prepare Bitfund.Cash "bitfund dot cash", a listing of BCH-powered micro-fundraising campaigns that take advantage of FOSS AKARI-PAGES.<br>
+<br><br>
+<b>Bitcoin Cash Guide Development:</b><br>
+3. Develop the AKARI-PAY Advanced Getting Started Guide Flipbook<br>
+4. Develop the AKARI-PAGES Getting Started Guide Flipbook<br>
+5. Develop username.Bitbucket.io Free Bitcoin Cash Fundraising Website Guide.<br>
+<br><br>
+<b>AKARI Bitcoin Cash Adoption Projects:</b><br>
+6. Help test any new implementations of AKARI-PAY or AKARI-PAGES<br>
+7. Help fund your BCH-related project when you use FOSS AKARI-PAY or AKARI-PAGES<Br>
+8. Raise Awareness!<br>
+<br><br>
+Check back for updates!
+<br><br>
+
+<h2>How we will spend the funds:</h2>
+1. Time spent developing.<br>
+2. Meals during office-hours<br>
+3. Fees for tools and software<br>
+4. Help testing and giving support to your project<br>
+5. Developing tools, guides, and AKARI BCH-projects.<br>
+<br><br>
+
+<h3>Projects this fundraiser also supports:</h3>
+
+<b>AKARI-PAY + AKARI-PAY Advanced</b><br>
+AKARI-PAY is what is powering this fundraiser. Anyone can now set up a payment page that works across multiple devices. This increases donation success rates. Now you can easily create your own Donate button or Payment button to accept Bitcoin Cash payments from your website or blog by linking to a simple one-file html.
+<br><br>
+AKARI-PAY Advanced has additional features such as color themes, goal bars, multiple goals, fund titles, and feedback after successful donations. We are working on making AKARI-PAY Advanced integrate smoothly with AKARI-PAGES to make setting up your own fundraisers as easy as possible.
+<br><br>
+<b>AKARI-PAGES</b><br>
+AKARI-PAGES is a static HTML+Javascript Fundraiser Website (like the one you are reading right now) that makes it possible for anyone to host for free an informative page that leverages 'AKARI-PAY Advanced' to offer successful fundraising campaigns using Bitcoin Cash.
+<br><br>
+<b>Further maintenance of Devs.Cash</b><br>
+<a target="nw" href="http://devs.cash">http://devs.cash</a> is frequently updated listing of many of the happenings in the development side of the Bitcoin Cash ecosystem focusing mainly on Web Apps, and iPhone/Android Applications. The goal of the project is to highlight and support development projects in the Bitcoin Cash Developer Ecosystem. By increasing the network effect we see the value of Bitcoin Cash increasing helping more individuals reach better financial positions.
+<br><br>
+<b>Growing a BCH Dev-Chat Community</b><br>
+Join the <a href="http://webchat.freenode.net/?randomnick=1&channels=%23akari&prompt=1">AKARI Dev-Chat</a> to talk about Bitcoin Cash Development Projects you are involved in or want to get started, talk about adoption projects, or talk about just about anything related to Bitcoin Cash! 
+ <br><br>
+<b>The AKARI Global Foundation Website</b><br>
+A hub for all things AGF, to replace the temporary page at <a target="nw" href="http://agf.earth">http://agf.earth</a>
+

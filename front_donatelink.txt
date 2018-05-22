@@ -1,1 +1,1 @@
-/fundraiser/addr=qrrk8mndzxvkpme3mufwaenl70zljzsgvgv6rvmx8r.html
+/fundraiser/donate/addr=qrrk8mndzxvkpme3mufwaenl70zljzsgvgv6rvmx8r.html

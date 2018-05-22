@@ -1,0 +1,10 @@
+Your donation supports projects like 
+<a target="nw" href="https://github.com/AKARI-B3/akaripay">akaripay</a>, as well as
+ raises funds to launch new Bitcoin Cash global adoption projects. For more info visit our 
+ <a target="nw" href="http://webchat.freenode.net/?randomnick=1&channels=%23akari&prompt=1">Dev-Chat</a> or 
+ foundation website at <a target="nw" href="http://agf.earth">AGF.EARTH</a><hr>
+ <b>Goal 1</b>: HUGE SUCCESS! THANK YOU! We hit 129% of our first goal of 0.09BCH, funds will be used to further dev work on akaripay, devs.cash, as well as 3 other projects:
+ Thanks to your donations, we can now help with YOUR efforts, please join our dev-chat to get started - we will offer our help!
+ <hr>
+ <b>Goal 2:</b>: 0.25 BCH - this goal will provide additional funding to launch multiple Bitcoin Cash ecosystem initiatives: step-by-step guides to using akaripay, getting started with Bitcoin Cash, and help us launch a more polished official foundation website!
+ <hr>

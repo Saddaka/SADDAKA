@@ -6,7 +6,7 @@
 <b>AKARI BitcoinCash Development Goals:</b><br>
 3. <s>Develop the AKARI-PAGES Getting Started Flipbook Guide</s>— DONE! <a href="http://agf.earth/guide/akaripages/">View Guide!</a><br> 
 4. Finish Developing AGF.EARTH Foundation website!<br>
-5. Develop Intro to Bitcoin Cash / Getting Started with Bitcoin Cash Flipbook guide.
+5. Develop Intro to Bitcoin Cash / Getting Started with Bitcoin Cash Flipbook guide.<br>
 6. Develop AKARI-VOTE & AKARI-TIPJAR (Two new tools similar to AKARI-PAY)<br>
 <br><br>
 <b>Ongoing AKARI BitcoinCash Adoption Goals:</b><br>

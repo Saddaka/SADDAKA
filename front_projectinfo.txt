@@ -1,27 +1,24 @@
 <h2>Goals for this Fundraiser:</h2>
 <b>Bitcoin Cash Tool Development:</b><br>
-<s>1. Launched AKARI-PAGES (This tool!) for everyone.</s>— DONE!<br>
+1. <s>Launched AKARI-PAGES (This tool!) for everyone.</s>— DONE!<br>
 2. Prepare <a href="http://Bitfund.Cash">Bitfund.Cash</a> "bitfund dot cash", a listing of BCH-powered micro-fundraising campaigns that take advantage of FOSS AKARI-PAGES.<br> (See this page for another example of akaripages in action!)
 <br><br>
 <b>Bitcoin Cash Guide Development:</b><br>
-3. Develop the AKARI-PAY Advanced Getting Started Guide Flipbook<br>
-4. Develop the AKARI-PAGES Getting Started Guide Flipbook<br>
-5. Develop username.Bitbucket.io Free Bitcoin Cash Fundraising Website Guide.<br>
-<br><br>
-<b>AKARI Bitcoin Cash Adoption Projects:</b><br>
-6. Help test any new implementations of AKARI-PAY or AKARI-PAGES<br>
-7. Help fund your BCH-related project when you use FOSS AKARI-PAY or AKARI-PAGES<Br>
-8. Raise Awareness!<br>
-<br><br>
-Check back for updates!
+3. <s>Develop the AKARI-PAGES Getting Started Flipbook Guide</s>— DONE! <a href="http://agf.earth/guide/akaripages/"View Guide</a><br> 
+4. Develop AKARI-VOTE & AKARI-TIPJAR (Two new tools similar to AKARI-PAY)<br>
+5. Finish Developing AGF.EARTH Foundation website!<br>
+6. Develop Intro to Bitcoin Cash / Getting Started with Bitcoin Cash Flipbook guide.
+<b>AKARI BitcoinCash Adoption Projects:</b><br>
+7. Help test any new implementations of AKARI-PAY or AKARI-PAGES<br>
+8. Help kickstart your <b>BCH-related project</b> when you use FOSS AKARI-PAY or AKARI-PAGES<Br>
+9. Raise Awareness for BitcoinCash and your BCH-project!<br>
 <br><br>
 
-<h2>How we will spend the funds:</h2>
-1. Time spent developing.<br>
-2. Meals during office-hours<br>
-3. Fees for tools and software<br>
-4. Help testing and giving support to your project<br>
-5. Developing tools, guides, and AKARI BCH-projects.<br>
+<h2>How we will spend the DEV-FUND proceeds:</h2>
+1. Time spent developing AKARI-Tools and BCH-Projects.<br>
+2. Meals during office-hours (Lunchbreak meals)<br>
+3. Fees for tools & software: hosting, design, dev, IT.<br>
+4. Help testing & giving support to your project.<br>
 <br><br>
 
 <h3>Projects this fundraiser also supports:</h3>
@@ -42,4 +39,5 @@ Join the <a href="http://webchat.freenode.net/?randomnick=1&channels=%23akari&pr
  <br><br>
 <b>The AKARI Global Foundation Website</b><br>
 A hub for all things AGF, to replace the temporary page at <a target="nw" href="http://agf.earth">http://agf.earth</a>
-
+ <br><br>
+<b>AKARI-TIPJAR and AKARI-VOTE (two upcoming projects depending on bitfund.cash launch & fundraising goals)</b><br>
